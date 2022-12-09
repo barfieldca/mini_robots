@@ -18,6 +18,7 @@ Link to download MyStudio(https://www.elephantrobotics.com/en/downloads/)
 
 #### Python Version: 3.7.3
 
+Download the `pymycobot` Python library to your Raspberry Pi. Then switch to the directory that the download is located in and type `sudo python3 setup.py install`
 
 ## `Circuit Design`
 
